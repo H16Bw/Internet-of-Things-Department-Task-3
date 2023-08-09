@@ -1,7 +1,7 @@
 # Internet-of-Things-Department-Task-3
 3rd task of Internet of Things Department - Summer training program at Smart Methods
 
-## Environmental Data Collection and Transmission with DHT22 Sensor and ESP8266/ESP32
+## Data Collection and Transmission with DHT22 Sensor and using a Wi-Fi network
 
 ## Wokwi Link : https://wokwi.com/projects/372550980634094593
 
